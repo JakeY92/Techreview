@@ -1,4 +1,4 @@
-# eco-tracker
+# Tech Review
 
 ## Project setup
 ```
